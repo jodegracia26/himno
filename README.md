@@ -1,2 +1,2 @@
 # himno
-letra del himno nacional
+LETRA DEL HIMNO NACIONAL DE PANAMA
